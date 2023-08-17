@@ -1,0 +1,75 @@
+body{
+    background-image: url(./IMAGE/netflic.jpg);
+    
+}
+#nf{
+    font-weight: 200px;
+    margin: 50px;
+    font-size: 50px;
+    color: red;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+#cont{
+    display: inline;
+}
+button{
+    margin-top: 0px;
+    width: 88px;
+    height: 36px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    margin-left: 16px;
+}
+select{
+    width: 88px;
+    height: 32px;
+    margin-left: 600px;
+    border-radius: 5px;
+    
+}
+select button{
+    
+    text-transform: none;
+
+}
+#scon{
+    text-align: center;
+    color: white;
+    margin-top: 182px;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    
+}
+#ea{
+    width: 260px;
+    height: 40px;
+     border-radius: 5px;
+    
+    
+}
+ input{
+    background-color: transparent ;
+    color: white;
+    
+   
+}
+hr{
+    margin-top: 150px;
+}
+img{
+    background-color: black;
+    margin-top: 100px;
+}
+ 
+#gs{
+    width: 153px;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+}
